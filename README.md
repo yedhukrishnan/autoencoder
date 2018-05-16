@@ -1,3 +1,3 @@
-# autoencoder
+# machine-learning-algorithms
 
-My experiments with autoencoders using TensorFlow
+My experiments with machine learning algorithms
